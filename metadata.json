@@ -1,0 +1,6 @@
+{
+  "name": "JoyKids Nepal - Offline Sunday School Play & Learn",
+  "description": "Fun, educational offline mini-games for Sunday School kids in Nepal featuring Memory Match, Word Quiz, Star Catcher, Coloring Book, Maze, Spot the Difference, Word Jumble, and Hidden Objects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
